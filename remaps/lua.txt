@@ -23,6 +23,12 @@ child
 🏴
 ### method description
 
+🪟
+
+name=⚫name⚪
+variant-type=⚫⚪
+
+🧱
 
 🏳️
 🟪
