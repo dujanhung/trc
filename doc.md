@@ -64,7 +64,7 @@ represents an entry.
 ▶var_name◀
 ```
 
-represents an abitrary variable.
+represents an abitrary variable regex.
 
 > [!NOTE]
 > - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
