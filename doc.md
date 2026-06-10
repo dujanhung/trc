@@ -32,13 +32,14 @@ list of texts
 
 represents a list of texts.
 
-𒐪𒐪𒐪𒐪𒐪
 
 ## attributes
 
 - `row()`
 - `collumn()`
 - `table()`
+
+𒐪𒐪𒐪𒐪𒐪
 
 </td></tr></table>
 
