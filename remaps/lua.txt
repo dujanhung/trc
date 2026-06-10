@@ -1,4 +1,4 @@
-🟫
+▛
 🏷️inheritance
 🏴
 ### inheritance
@@ -17,8 +17,8 @@ child
 </td><td>
 ⚫child⚪
 </td></tr></tbody></table>
-🟪
-🟫
+▟
+▛
 🏷️method description
 🏴
 ### method description
@@ -49,4 +49,4 @@ range=⚫range🌈⚪
 
 ⚫description⚪
 🧱
-🟪
+▟
