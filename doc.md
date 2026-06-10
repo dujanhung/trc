@@ -1,19 +1,21 @@
 # the API doc converter language
 
-# ◆◇
+# <code>◆◇</code>
 
 ```txt
+◙
 ◆
-texts
+input texts
+◇
+◘
+◆
+output texts
 ◇
 ```
 
 represents an abitrary text content.
 
-> [!NOTE]
-> this bracket can only be used with `◙` and `◘`.
-
-# ▣
+# <code>▣</code>
 
 ```
 ▣
@@ -27,11 +29,11 @@ represents a metadata.
 > [!NOTE]
 > metadatas would be ignored at runtime.
 
-# ▼▲
+# <code>▼▲</code>
 
 ```txt
 ▼
-...
+
 ▲
 ```
 
