@@ -1,3 +1,5 @@
+🟫
+🏷️
 🏴
 ### inheritance
 
@@ -15,3 +17,4 @@ child
 </td><td>
 ⚫child⚪
 </td></tr></tbody></table>
+🟪
