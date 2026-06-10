@@ -1,12 +1,16 @@
 🏴
 ### inheritance
 
-- parent:⚫var('parent')⚪
-- child:⚫var(),delim(',')⚪
+- parent:⚫parent⛓️⚪
+- child:⚫child⛓️delim(',')⚪
 🏳️
 ### inheritance
 
 <table><thread><tr><td>
 parent
 </td><td>
-⚫var('parent')⚪
+⚫parent⚪
+</td></tr></thread><tbody><tr><td>
+child
+</td><td>
+⚫child⚪
