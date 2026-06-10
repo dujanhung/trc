@@ -2,7 +2,7 @@
 
 ## variants
 
-<table><thread><tr><td>
+<table><tr><td>
 
 # <code>◆◇</code>
 
@@ -14,7 +14,7 @@ abitrary texts
 
 represents an abitrary text content.
 
-</td></tr></thread><tbody><tr><td>
+</td><td>
 
 # <code>◨◧</code>
 
@@ -32,7 +32,7 @@ represents a list of texts.
 - `collumn()`
 - `table()`
 
-</td></tr></tbody></table>
+</td></tr></table>
 
 ## keywords
 
