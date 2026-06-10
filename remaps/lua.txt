@@ -2,5 +2,5 @@
 ### inheritance
 
 - parent:⚫❓⚪
-- child:⚫❓delim=','⚪
+- child:⚫❓delim(,)⚪
 🏳️
