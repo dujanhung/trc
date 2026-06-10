@@ -1,4 +1,4 @@
-# the regex converter language
+# the regex-based converter language
 
 ## variants
 
@@ -7,7 +7,7 @@
 𒐪𒐪𒐪𒐪𒐪
 
 <details><summary>
-<h1><code>◆◇</code></h1>
+<h2><code>◆◇</code></h2>
 </summary>
 
 ```txt
