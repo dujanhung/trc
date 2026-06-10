@@ -1,9 +1,7 @@
 {
- "symbols":{
-  "entry_o":"▼",
-  "entry_s":"▲",
-  "var_o":"▶",
-  "var_s":"◀",
+ "brackets":{
+  "entry":["▼","▲"],
+  "var":["▶","◀"],
   "list_o":"►",
   "list_s":"◄"
  }
