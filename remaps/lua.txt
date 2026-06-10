@@ -3,8 +3,8 @@
 🏴
 ### inheritance
 
-- parent:⚫parent⛓️🌈str⚪
-- child:⚫child⛓️🌈list(type='str',delim=',')⚪
+- parent:⚫parent🌈str⚪
+- child:⚫child🌈list(type='str',delim=',')⚪
 🏳️
 ### inheritance
 
@@ -23,12 +23,8 @@ child
 🏴
 ### method description
 
-🪟
-
-name=⚫name⚪
-variant-type=⚫⚪
-
-🧱
+name=⚫name🌈str⚪
+variant-type=⚫variant-type🌈str⚪
 
 🏳️
 🟪
