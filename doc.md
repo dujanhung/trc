@@ -62,7 +62,7 @@ represents a regex from the output file.
 ▲
 ```
 
-represents a container for entries.
+represents an entry container.
 
 ## regexs
 
