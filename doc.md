@@ -6,6 +6,8 @@
 
 𒐪𒐪𒐪𒐪𒐪
 
+<details>
+
 # <code>◆◇</code>
 
 ```txt
@@ -15,6 +17,8 @@ abitrary texts
 ```
 
 represents an abitrary text content.
+
+</details>
 
 𒐪𒐪𒐪𒐪𒐪
 
