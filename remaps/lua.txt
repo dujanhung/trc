@@ -23,7 +23,7 @@ child
 🏴
 ### method description
 
-🪟re
+🪟list(delim='\n')
 name=⚫name🌈str⚪
 variant-type=⚫variant-type🌈str⚪
 range=⚫range🌈str⚪
