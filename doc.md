@@ -3,13 +3,8 @@
 # <code>◆◇</code>
 
 ```txt
-◙
 ◆
 input texts
-◇
-◘
-◆
-output texts
 ◇
 ```
 
@@ -31,13 +26,21 @@ represents a metadata.
 
 # <code>▼▲</code>
 
+represents an entry.
+
 ```txt
 ▼
-
+▣
+◙
+◘
+▲
+▼
+...
+▲
+▼
+...
 ▲
 ```
-
-represents an entry.
 
 # ▶◀
 
