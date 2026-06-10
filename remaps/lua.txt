@@ -23,8 +23,13 @@ child
 🏴
 ### method description
 
+🪟
 name=⚫name🌈str⚪
 variant-type=⚫variant-type🌈str⚪
+range=⚫range🌈str⚪
+
+⚫description⚪
+🧱...
 
 🏳️
 🟪
