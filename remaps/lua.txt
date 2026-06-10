@@ -21,7 +21,7 @@ parent
 </td></tr></thread><tbody><tr><td>
 child
 </td><td>
-◨▶child◀◧◉delim='\n<br>\n'○
+◨`▶child◀`◧◉delim='\n<br>\n'○
 </td></tr></tbody></table>
 ◇
 ▲
