@@ -1,4 +1,4 @@
-# the MD regex converter language
+# the regex converter language
 
 ## variants
 
