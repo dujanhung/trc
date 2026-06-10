@@ -37,8 +37,16 @@ range=⚫range🌈str⚪
 🪟table(begin='thread',clean='true')
 ```json
 {
- "name":"⚫⚪"
+ "name":"⚫name⚪",
+ "variant-type":"⚫variant-type⚪",
+ "range":"⚫range⚪"
 }
 ```
+
+```lua
+⚫name⚪
+```
+
+⚫description⚪
 🧱
 🟪
