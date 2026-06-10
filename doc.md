@@ -2,6 +2,8 @@
 
 # ◆◇
 
+represents a text content.
+
 ```
 ◆
 ◇
@@ -9,8 +11,16 @@
 
 # ▣
 
+represents metadata.
+
+> [!NOTE]
+> this text would be ignored at runtime.
+
 ```
 ▣
+◆
+metadata texts
+◇
 ```
 
 # ▼▲
