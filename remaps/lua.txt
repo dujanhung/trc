@@ -1,7 +1,7 @@
 🏴
 ### inheritance
 
-- parent:⚫var()⚪
+- parent:⚫var('parent')⚪
 - child:⚫var(),delim(',')⚪
 🏳️
 ### inheritance
@@ -9,3 +9,4 @@
 <table><thread><tr><td>
 parent
 </td><td>
+⚫var('parent')⚪
