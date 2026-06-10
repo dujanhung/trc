@@ -32,7 +32,7 @@ represents a list of texts.
 - `collumn()`
 - `table()`
 
-</td></tr></tbody>
+</td></tr></tbody></table>
 
 ## keywords
 
