@@ -2,7 +2,7 @@
 
 ## variants
 
-<table><tr alignment="top"><td>
+<table><tr><td>
 
 # <code>◆◇</code>
 
