@@ -60,6 +60,6 @@ range=▶range◀
 ```
 
 ▶description◀
-◧◉table(clean(begin='thread')),delim='\n\n'○
+◧◉table(clean-bg(begin='thread')),delim='\n\n'○
 ◇
 ▲
