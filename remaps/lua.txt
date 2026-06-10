@@ -23,13 +23,13 @@ child
 🏴
 ### method description
 
-🪟list(type='str',delim='\n')
+🪟list
 name=⚫name🌈⚪
 variant-type=⚫variant-type🌈⚪
 range=⚫range🌈⚪
 
 ⚫description⚪
-🧱.
+🧱'\n'
 
 🏳️
 ### method description
