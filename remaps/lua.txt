@@ -23,13 +23,22 @@ child
 🏴
 ### method description
 
-🪟
+🪟re
 name=⚫name🌈str⚪
 variant-type=⚫variant-type🌈str⚪
 range=⚫range🌈str⚪
 
 ⚫description⚪
-🧱...
+🧱.
 
 🏳️
+### method description
+
+🪟table(begin='thread',clean='true')
+```json
+{
+ "name":"⚫⚪"
+}
+```
+🧱
 🟪
