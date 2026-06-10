@@ -8,7 +8,7 @@ inheritance
 ### inheritance
 
 - parent:▶parent◀
-- child:◨▶child◀◧◉delim(',')○
+- child:◨▶child◀◧◉delim=','○
 ◇
 ◘
 ◆
