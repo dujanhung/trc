@@ -6,9 +6,9 @@
 
 𒐪𒐪𒐪𒐪𒐪
 
-<details>
-
+<details><summary>
 # <code>◆◇</code>
+</summary>
 
 ```txt
 ◆
