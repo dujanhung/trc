@@ -61,7 +61,10 @@ represents an entry.
 # <code>▶◀</code>
 
 ```txt
-▶◀
+▶var_name◀
 ```
 
-represents a variable.
+represents an abitrary variable.
+
+> [!NOTE]
+> - `var_name` must be `^[A-Za-z\_\-]{1-255}$`
