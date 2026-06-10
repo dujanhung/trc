@@ -26,24 +26,20 @@ represents a metadata.
 
 # <code>▼▲</code>
 
-represents an entry.
-
 ```txt
 ▼
 ▣
 ◙
 ◘
 ▲
-▼
-...
-▲
-▼
-...
-▲
 ```
 
-# ▶◀
+represents an entry.
 
-```
+# <code>▶◀</code>
+
+```txt
 ▶◀
 ```
+
+represents a variable.
