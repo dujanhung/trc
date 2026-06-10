@@ -4,7 +4,7 @@
 ### inheritance
 
 - parent:⚫parent⛓️🌈str⚪
-- child:⚫child⛓️delim(',')🌈list[str]⚪
+- child:⚫child⛓️🌈list(type='str',delim=',')⚪
 🏳️
 ### inheritance
 
