@@ -50,7 +50,7 @@ input texts
 
 represents a regex from the output file.
 
-## specials
+## containers
 
 ### <code>▼▲</code>
 
