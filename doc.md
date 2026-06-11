@@ -1,3 +1,5 @@
+```md
+
 # RECL - the regex-based converter language
 
 # description
@@ -302,3 +304,5 @@ construct a list of abitrary texts with delimeter <code>n</code>
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
+
+```
