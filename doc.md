@@ -1,5 +1,3 @@
-```md
-
 # RECL - the regex-based converter language
 
 # description
@@ -26,7 +24,7 @@ ___
 
 ## RECL file
 
-\```txt
+```txt
 ▼
 ▣
 ◆
@@ -65,7 +63,7 @@ broken-pot-names: [
 ]
 ◇
 ▲
-\```
+```
 
 ## input file
 
@@ -304,5 +302,3 @@ construct a list of abitrary texts with delimeter <code>n</code>
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
-
-```
