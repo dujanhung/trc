@@ -112,7 +112,7 @@ python script.py -a alphabet.json -i input.md -o output.md
 
 ___
 
-# doc contents
+# RECL doc contents
 
 ## keywords
 
