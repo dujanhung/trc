@@ -70,8 +70,6 @@ abitrary text container
 
 represents an abitrary text container.
 
-## others
-
 # <code>◉○</code>
 
 ```txt
