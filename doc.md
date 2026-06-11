@@ -240,7 +240,7 @@ represents a regex variable.
 ```txt
 ◨
 list of texts
-◧▰delim(◑,◐)▱
+◧▰▱
 ```
 
 represents an infinite repetitive structure of an abitrary text, a MD list, or a MD table.
