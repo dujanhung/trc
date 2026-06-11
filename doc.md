@@ -16,7 +16,7 @@ users no longer deal with complex alienated regex languages. instead, an easy hu
 
 ## no indentations required
 
-unlike XML, RECL language don't use indentation, which is safe for clipboards and line wrapping textbox UIs.
+unlike XML, RECL language don't use indentation, which is safe for clipboards and line-wrapping textbox UIs.
 
 ___
 
