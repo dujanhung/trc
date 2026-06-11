@@ -70,17 +70,6 @@ abitrary text container
 
 represents an abitrary text container.
 
-# <code>▶◀</code>
-
-```txt
-▶var_name◀
-```
-
-represents a regex match variable.
-
-> [!NOTE]
-> `var_name` must be `^[A-Za-z\_\-]{1-255}$`
-
 # <code>◉○</code>
 
 ```txt
@@ -93,6 +82,16 @@ represents an attribute container.
 
 <table><thread><tr><td>
 
+# <code>▶◀</code>
+
+```txt
+▶var_name◀
+```
+
+represents a regex match variable.
+
+> [!NOTE]
+> `var_name` must be `^[A-Za-z\_\-]{1-255}$`
 
 </td></tr></thread><tbody><tr><td>
 
