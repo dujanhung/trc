@@ -151,7 +151,7 @@ represents a regex variable.
 
 > [!NOTE]
 > - `▶◀` are not unique, and can't be sent across different `▼▲`.
-> - `▶◀` from `◘` must exist in `▶◀` from `◙`.
+> - `▶◀` from `◘` must exist in `▶◀` from `◙`. otherwise, it would result in `𒐪` being added in output file.
 
 </td></tr></thread><tbody><tr><td>
 
