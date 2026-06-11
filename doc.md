@@ -35,25 +35,25 @@ description
 </td></tr></thread><tbody><tr><td>
 <code>ul(n)</code>
 </td><td>
-<code>1</code>
+<code>0</code>
 </td><td>
 construct an unordered list with <code>n</code> elements
 </td></tr></tbody><thread><tr><td>
 <code>ol(n,t,s)</code>
 </td><td>
-<code>1</code>
+<code>0</code>
 </td><td>
 construct an ordered list with <code>n</code> elements, type <code>t</code> and start with <code>s</code>
 </td></tr></thread><tbody><tr><td>
 <code>row(n)</code>
 </td><td>
-<code>1</code>
+<code>0</code>
 </td><td>
 construct a table with <code>n</code> row
 </td></tr></tbody><thread><tr><td>
 <code>collumn(n)</code>
 </td><td>
-<code>1</code>
+<code>0</code>
 </td><td>
 construct a table with <code>n</code> collumn
 </td></tr></thread><tbody><tr><td>
