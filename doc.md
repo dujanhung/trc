@@ -48,6 +48,8 @@ represents a regex content from the output file.
 
 ## containers
 
+<table><thread><tr><td>
+
 # <code>▼▲</code>
 
 ```txt
@@ -60,6 +62,8 @@ represents a regex content from the output file.
 
 represents an entry container.
 
+</td></tr></thread><tbody><tr><td>
+
 # <code>◆◇</code>
 
 ```txt
@@ -70,6 +74,8 @@ abitrary text container
 
 represents an abitrary text container.
 
+</td></tr></tbody><thread><tr><td>
+
 # <code>◉○</code>
 
 ```txt
@@ -77,6 +83,8 @@ represents an abitrary text container.
 ```
 
 represents a flag container.
+
+</td></tr></thread></table>
 
 ## regexs
 
