@@ -150,7 +150,8 @@ represents a flag container.
 represents a regex variable.
 
 > [!NOTE]
-> `▶◀` is not unique, and can't be moved across different `▼▲`.
+> - `▶◀` are not unique, and can't be sent across different `▼▲`.
+> - `▶◀` from `◘` must exist in `▶◀` from `◙`.
 
 </td></tr></thread><tbody><tr><td>
 
