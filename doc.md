@@ -26,7 +26,7 @@ ___
 
 ## RECL file
 
-\`\`\`txt
+\```txt
 ▼
 ▣
 ◆
@@ -65,7 +65,7 @@ broken-pot-names: [
 ]
 ◇
 ▲
-\`\`\`
+\```
 
 ## input file
 
