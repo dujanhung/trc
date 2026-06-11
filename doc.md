@@ -137,7 +137,7 @@ represents a regex content from the output file.
 represents a regex scope.
 
 > [!NOTE]
-> only use this container to skip optional texts and organize contents. too many may increase file size and harm readability. too few may pollute contents.
+> **only use this container to skip texts and organize contents**. too many may increase file size and harm readability. too few may pollute contents.
 
 </td></tr></thread><tbody><tr><td>
 
