@@ -40,7 +40,7 @@ that's all the pots
 ◆
 broken-pot-names: [
 ◨
-'▶a◀',
+'▶a◀'
 ◧▰delim(',\n')▱
 ]
 ◇
