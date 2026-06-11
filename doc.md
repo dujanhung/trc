@@ -70,6 +70,8 @@ abitrary text container
 
 represents an abitrary text container.
 
+## others
+
 # <code>◉○</code>
 
 ```txt
@@ -77,9 +79,6 @@ represents an abitrary text container.
 ```
 
 represents a flag container.
-
-> [!NOTE]
-> - this container can't be standalone.
 
 ## regexs
 
