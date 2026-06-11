@@ -26,13 +26,13 @@ name: ▶a◀
 ### input file
 
 ```txt
-my name is regex
+my name is 0
 ```
 
 ### output file
 
 ```yml
-name: regex
+name: 0
 ```
 
 ## keywords
