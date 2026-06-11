@@ -1,8 +1,14 @@
 # RECL - the regex-based converter language
 
-## description
+# description
 
 the regex-based converter language (RECL) is a file format that designated to convert files via regex.
+
+# features
+
+## reusable alphabets
+
+swap out RECL alphabets with different ones.
 
 ## example
 
