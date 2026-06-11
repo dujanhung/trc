@@ -10,29 +10,39 @@
 ▼
 ▣
 ◆
-rocks count
+simple
 ◇
 ◙
 ◆
 there are ▶a◀ rocks,
+they broke ▶b◀ pots.
 ◇
 ◘
 ◆
 rocks-count: ▶a◀
+broken-pots-count: ▶b◀
 ◇
 ▲
 ▼
 ▣
 ◆
-broken pots count
+complex
 ◇
 ◙
 ◆
-they broke ▶a◀ pots.
+#
+◨
+▶a◀ is broken.
+◧▰▱
+##
 ◇
 ◘
 ◆
-broken-pots-count: ▶a◀
+broken-pots: [
+◨
+'▶a◀',
+◧▰▱
+]
 ◇
 ▲
 ```
@@ -42,6 +52,9 @@ broken-pots-count: ▶a◀
 ```txt
 there are 3 rocks,
 they broke 5 pots.
+
+pot 1 is broken.
+pot 5 is broken.
 ```
 
 ### output file
@@ -49,6 +62,10 @@ they broke 5 pots.
 ```yml
 rocks-count: 3
 broken-pots-count: 5
+broken-pots: [
+'pot 1',
+'pot 5',
+]
 ```
 
 ___
