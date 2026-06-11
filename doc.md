@@ -1,7 +1,5 @@
 # the regex-based converter API doc
 
-
-
 ## keywords
 
 <table><thread><tr><td>
