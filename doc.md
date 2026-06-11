@@ -14,11 +14,11 @@ the first regex-based converter file
 ◇
 ◙
 ◆
-my name is ▶a◀
+there are ▶a◀ dots.
 ◇
 ◘
 ◆
-name: ▶a◀
+dots-count: ▶a◀
 ◇
 ▲
 ```
@@ -26,13 +26,13 @@ name: ▶a◀
 ### input file
 
 ```txt
-my name is 0
+there are 3 dots.
 ```
 
 ### output file
 
 ```yml
-name: 0
+dots-count: 3
 ```
 
 ## keywords
