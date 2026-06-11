@@ -180,11 +180,11 @@ abitrary text container
 ◇
 ```
 
+represents an abitrary text container.
+
 </td></tr></tbody><thread><tr><td>
 
 # <code>◑◐</code>
-
-represents an abitrary text container.
 
 ```txt
 ◑literal text container◐
