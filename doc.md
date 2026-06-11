@@ -38,7 +38,7 @@ that's all the pots
 ◇
 ◘
 ◆
-broken-pots: [
+broken-pot-names: [
 ◨
 '▶a◀',
 ◧▰delim('\n')▱
@@ -64,7 +64,7 @@ that's all the pots.
 ```yml
 rocks-count: 3
 broken-pots-count: 5
-broken-pots: [
+broken-pot-names: [
 'pot 1',
 'pot 5',
 ]
