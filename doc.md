@@ -110,9 +110,22 @@ pip install rich
 python script.py -a alphabet.json -i input.md -o output.md
 ```
 
-- `-a` : a JSON file containing a custom RECL alphabet
-- `-i` : input file
-- `-o` : output file
+<table><thread><tr><td>
+flag
+</td><td>
+description
+</td></tr></thread><tbody><tr><td>
+<code>-a</code>
+</td><td>
+filepath to a JSON file containing a custom RECL alphabet
+</td></tr></tbody><thread><tr><td>
+<code>-i</code>
+</td><td>
+filepath to input file
+<code>-o</code>
+</td><td>
+filepath to output file
+</td></tr></thread></table>
 
 ___
 
