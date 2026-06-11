@@ -31,13 +31,13 @@ attributes
 </td><td>
 description
 </td></tr></thread><tbody><tr><td>
-<code>row()</code>
+<code>row(n)</code>
 </td><td>
-construct a table with one row
+construct a table with <code>n</code> row
 </td></tr></tbody><thread><tr><td>
-<code>collumn()</code>
+<code>collumn(n)</code>
 </td><td>
-construct a table with one collumn
+construct a table with <code>n</code> collumn
 </td></tr></thread></table>
 
 </td></tr></tbody></table>
