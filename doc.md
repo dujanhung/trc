@@ -94,10 +94,10 @@ pip install rich
 ## run
 
 ```sh
-python script.py -m map.json -i input.md -o output.md
+python script.py -a alphabet.json -i input.md -o output.md
 ```
 
-- `-m` : a JSON file containing Unicode characters mapping
+- `-a` : a JSON file containing a custom RECL alphabet
 - `-i` : input file
 - `-o` : output file
 
