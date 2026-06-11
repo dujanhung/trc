@@ -223,6 +223,7 @@ represents a flag container.
 ## regex methods
 
 > [!NOTE]
+> unless othetwise noted:
 > - regex methods are not unique, and can't be sent across different `▼▲`.
 > - regex methods from `◘` must exist in the ones from `◙`. otherwise, it would result in `𒐪` being added in the output file.
 
