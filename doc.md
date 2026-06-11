@@ -1,10 +1,10 @@
-# REBC - the regex-based converter language
+# RBCL - the regex-based converter language
 
 ## description
 
 ## example
 
-### REBC file
+### RBCL file
 
 ```txt
 ▼
