@@ -81,8 +81,12 @@ pkg install python
 ```
 
 ```sh
-python script.py lang.json input.md output.md
+python script.py -l lang.json -i input.md -o output.md
 ```
+
+- `-l` : a JSON file containing Unicode chars mapping
+- `-i` : input file
+- `-o` : output file
 
 ## keywords
 
