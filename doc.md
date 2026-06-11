@@ -4,6 +4,8 @@
 
 ## example
 
+### regex converter file
+
 ```txt
 ▼
 ▣
@@ -12,13 +14,25 @@ the first regex-based converter file
 ◇
 ◙
 ◆
-name an ▶a◀
+my name is ▶a◀
 ◇
 ◘
 ◆
 name:▶a◀
 ◇
 ▲
+```
+
+### input file
+
+```txt
+my name is regex
+```
+
+### output file
+
+```yml
+name:regex
 ```
 
 ## keywords
