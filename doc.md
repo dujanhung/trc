@@ -1,12 +1,20 @@
 # the regex-based converter API doc
 
+## description
+
+## example
+
+```txt
+
+```
+
 ## keywords
 
 <table><thread><tr><td>
 
 # <code>▣</code>
 
-```
+```txt
 ▣
 ◆
 metadata texts
@@ -22,7 +30,7 @@ represents a metadata.
 
 # <code>◙</code>
 
-```
+```txt
 ◙
 ◆
 input regexs
@@ -35,7 +43,7 @@ represents a regex content from the input file.
 
 # <code>◘</code>
 
-```
+```txt
 ◘
 ◆
 output regexs
