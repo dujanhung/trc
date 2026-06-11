@@ -2,7 +2,7 @@
 
 ## description
 
-the regex-based converter language is a file format that designated to convert files with regex.
+the regex-based converter language (RECL) is a file format that designated to convert files with regex.
 
 ## example
 
