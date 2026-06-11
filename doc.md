@@ -4,7 +4,7 @@
 
 ## example
 
-### regex converter file
+### regex-based converter file
 
 ```txt
 ▼
