@@ -245,6 +245,9 @@ list of texts
 
 represents an infinite repetitive structure of an abitrary text, a MD list, or a MD table.
 
+> [!NOTE]
+> `▰▱` can't be left empty.
+
 <table><thread><tr><td>
 attributes
 </td><td>
