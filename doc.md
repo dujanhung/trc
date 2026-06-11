@@ -180,9 +180,19 @@ abitrary text container
 ◇
 ```
 
+</td></tr></tbody><thread><tr><td>
+
+# <code>◑◐</code>
+
 represents an abitrary text container.
 
-</td></tr></tbody><thread><tr><td>
+```txt
+◑literal text container◐
+```
+
+represents a literal text container.
+
+</td></tr></thread><tbody><tr><td>
 
 # <code>▰▱</code>
 
@@ -192,7 +202,7 @@ represents an abitrary text container.
 
 represents a flag container.
 
-</td></tr></thread></table>
+</td></tr></tbody></table>
 
 ## regex methods
 
