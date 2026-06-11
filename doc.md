@@ -8,11 +8,11 @@
 
 ```txt
 ◆
-text container
+abitrary text container
 ◇
 ```
 
-represents a text container.
+represents an abitrary text container.
 
 </td></tr></thread><tbody><tr><td>
 
