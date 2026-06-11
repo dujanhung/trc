@@ -5,7 +5,20 @@
 ## example
 
 ```txt
-
+▼
+▣
+◆
+the first regex-based converter file
+◇
+◙
+◆
+name an ▶a◀
+◇
+◘
+◆
+name:▶a◀
+◇
+▲
 ```
 
 ## keywords
