@@ -7,7 +7,9 @@
 𒐪𒐪𒐪𒐪𒐪
 
 <details>
-<summary><h1><code>◆◇</code></h1></summary>
+<summary>
+<code font-size="50">◆◇</code>
+</summary>
 
 ```txt
 ◆
