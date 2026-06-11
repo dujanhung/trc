@@ -74,10 +74,11 @@ ___
 
 # CLI usage
 
-## install Python
+## install depencies
 
 ```sh
 pkg install python
+pip install re
 ```
 
 ## run
