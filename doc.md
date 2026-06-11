@@ -74,6 +74,16 @@ ___
 
 # doc contents
 
+## CLI
+
+```sh
+pkg install python
+```
+
+```sh
+python script.py lang.json input.md output.md
+```
+
 ## keywords
 
 <table><thread><tr><td>
