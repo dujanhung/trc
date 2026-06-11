@@ -33,7 +33,7 @@ the looks
 look.
 ◨
 ▶a◀ is broken.
-◧▰delim(',\n')▱
+◧▰delim('\n')▱
 that's all the pots
 ◇
 ◘
@@ -41,7 +41,7 @@ that's all the pots
 broken-pot-names: [
 ◨
 '▶a◀',
-◧▰delim('\n')▱
+◧▰delim(',\n')▱
 ]
 ◇
 ▲
