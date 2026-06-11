@@ -78,6 +78,7 @@ ___
 
 ```sh
 pkg install python
+pip install rich
 ```
 
 ## run
