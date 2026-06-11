@@ -4,8 +4,6 @@
 
 <table><thread><tr><td>
 
-𒐪𒐪𒐪𒐪𒐪
-
 # <code>◆◇</code>
 
 ```txt
@@ -16,11 +14,7 @@ abitrary texts
 
 represents an abitrary text content.
 
-𒐪𒐪𒐪𒐪𒐪
-
 </td></tr></thread><tbody><tr><td>
-
-𒐪𒐪𒐪𒐪𒐪
 
 # <code>◨◧</code>
 
@@ -38,8 +32,6 @@ represents a list of texts.
 - `row()`
 - `collumn()`
 - `table()`
-
-𒐪𒐪𒐪𒐪𒐪
 
 </td></tr></tbody></table>
 
