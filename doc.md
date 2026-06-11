@@ -219,6 +219,9 @@ represents a flag container.
 
 ## regex methods
 
+> [!NOTE]
+> unless otherwised noted, `▰▱` can't be left empty. the one shown in this doc is for visual purposes.
+
 <table><thread><tr><td>
 
 # <code>▶◀</code>
@@ -244,9 +247,6 @@ list of texts
 ```
 
 represents an infinite repetitive structure of an abitrary text, a MD list, or a MD table.
-
-> [!NOTE]
-> `▰▱` can't be left empty.
 
 <table><thread><tr><td>
 attributes
