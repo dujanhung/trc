@@ -14,6 +14,10 @@ unlike hardcoded regex alphabets, users could swap out default RECL alphabets wi
 
 users no longer deal with complex alienated regex languages. instead, an easy human-readable RECL language takes place to improve readability.
 
+## zero indentations
+
+unlike XML, RECL language don't use indentation.
+
 ___
 
 # example
