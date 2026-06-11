@@ -81,7 +81,7 @@ represents a regex content from the output file.
 ▲
 ```
 
-represents an entry container.
+represents a keyword container.
 
 </td></tr></thread><tbody><tr><td>
 
