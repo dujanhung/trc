@@ -8,7 +8,7 @@
 
 <details>
 <summary>
-<code font-size="50">◆◇</code>
+<code>◆◇</code>
 </summary>
 
 ```txt
