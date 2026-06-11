@@ -61,7 +61,7 @@ construct a table with <code>n</code> collumn
 </td><td>
 <code>0</code>
 </td><td>
-split text with delimeter <code>n</code>
+split abitrary text with delimeter <code>n</code>
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
