@@ -12,7 +12,7 @@ unlike hardcoded regex alphabets, users could swap out default RECL alphabets wi
 
 ## human-readable language
 
-users no longer deal with complex alienated regex languages. instead, an easy human-readable RECL language takes place to improve usability.
+users no longer deal with complex alienated regex languages. instead, an easy human-readable RECL language takes place to improve readability.
 
 ___
 
