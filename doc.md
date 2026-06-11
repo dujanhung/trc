@@ -8,7 +8,7 @@
 
 ```txt
 ◆
-abitrary texts
+text container
 ◇
 ```
 
