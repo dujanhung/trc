@@ -223,7 +223,7 @@ construct a MD table with <code>n</code> collumn
 </td><td>
 <code>1</code>
 </td><td>
-split an abitrary text with delimeter <code>n</code>
+construct a list of abitrary texts with delimeter <code>n</code>
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
