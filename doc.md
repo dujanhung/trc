@@ -30,11 +30,11 @@ complex
 ◇
 ◙
 ◆
-#
+look.
 ◨
 ▶a◀ is broken.
 ◧▰▱
-##
+that's all the pots
 ◇
 ◘
 ◆
@@ -53,8 +53,10 @@ broken-pots: [
 there are 3 rocks,
 they broke 5 pots.
 
+look.
 pot 1 is broken.
 pot 5 is broken.
+that's all the pots.
 ```
 
 ### output file
