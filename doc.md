@@ -21,7 +21,7 @@ represents a text container.
 ```txt
 ◨
 list of texts
-◧◉delim(','),collumn('1')○
+◧◉delim(',')○
 ```
 
 represents an infinite repetitive structure of an abitrary text, a list, or a table.
@@ -61,7 +61,7 @@ construct a table with <code>n</code> collumn
 </td><td>
 <code>0</code>
 </td><td>
-split strings with delimeter <code>n</code>
+split text with delimeter <code>n</code>
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
