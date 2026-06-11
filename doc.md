@@ -222,6 +222,10 @@ represents a flag container.
 
 ## regex methods
 
+> [!NOTE]
+> - regex methods are not unique, and can't be sent across different `▼▲`.
+> - regex methods from `◘` must exist in the ones from `◙`. otherwise, it would result in `𒐪` being added in the output file.
+
 <table><thread><tr><td>
 
 # <code>▶◀</code>
@@ -231,10 +235,6 @@ represents a flag container.
 ```
 
 represents a regex variable.
-
-> [!NOTE]
-> - `▶◀` are not unique, and can't be sent across different `▼▲`.
-> - `▶◀` from `◘` must exist in `▶◀` from `◙`. otherwise, it would result in `𒐪` being added in the output file.
 
 </td></tr></thread><tbody><tr><td>
 
