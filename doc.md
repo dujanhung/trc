@@ -6,7 +6,7 @@ the regex-based converter language (RECL) is a file format that designated to co
 
 # features
 
-## reusable alphabets
+## reusable alphabet
 
 unlike hardcoded regex alphabets, users could swap out default RECL alphabets with different ones.
 
