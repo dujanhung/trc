@@ -178,7 +178,7 @@ represents a regex content from the output file.
 ▲
 ```
 
-represents a regex scope.
+represents a scope.
 
 > [!IMPORTANT]
 > **only use multiple of this container to split scope and organize contents**. too many may increase file size and harm readability. too few may pollute contents.
