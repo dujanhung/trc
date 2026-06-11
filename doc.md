@@ -21,7 +21,7 @@ represents an abitrary text content.
 ```txt
 ◨
 list of texts
-◧◉○
+◧◉delim(','),collumn('1')○
 ```
 
 represents a list of texts.
