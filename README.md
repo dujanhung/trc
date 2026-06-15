@@ -1,6 +1,6 @@
 # introduction
 
-TRC (Text Regex Converter) is a regex transformation language.
+TRC (Text Regex Converter) is a regex-based transformation language.
 
 TRC could convert TXT-to-TXT, TXT-to-MD, and other variants.
 
