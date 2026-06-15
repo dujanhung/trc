@@ -79,47 +79,47 @@ TRC is commonly used for:
 
 # why TRC exists?
 
-## improve conversion performance
+## faster conversion
 
 ### before
 
-- many days
-- low accuracy
-- expensive
+- conversion requires days
+- low conversion accuracy
+- high operational cost
 
 ### after
 
-- several seconds
-- high accuracy
-- cheap
+- conversion completes in seconds
+- high conversion accuracy
+- significantly lower cost
 
-## improve health for maintainers
+## better maintainer experience
 
 ### before
 
-- finger pain
-- weakness
-- headache
+- repetitive manual tasks
+- physical strain from prolonged work
+- mental fatigue and frustration
 
 ### after
 
-- simple one-click action
-- full of energy
-- relaxed mind
+- simple one-click to run script
+- minimal manual effort
+- more focused and productive workflow
 
-## clean contents
+## cleaner output
 
 ### before
 
-- typos
-- mismatches
-- broken HTML tags
+- frequent typos
+- content mismatches
+- broken or invalid HTML
 
 ### after
 
-- no typos
-- no mismatches
-- proper HTML tags
+- consistent formatting
+- accurate content mapping
+- valid and well-structured HTML
 
 ---
 
