@@ -79,7 +79,7 @@ TRC is commonly used for:
 
 # why TRC exists?
 
-## faster conversion
+## better conditions
 
 ### before
 
