@@ -2,6 +2,20 @@
 
 ---
 
+# minimap
+
+╠╦ CLI usage       <br>
+┃┣╾ -t             <br>
+┃┣╾ -i             <br>
+┃┗╾ -o             <br>
+╠╦ control chars   <br>
+┃┗╾ separator      <br>
+╠╦ operator chars  <br>
+┃┣╾ subtitube      <br>
+┃┗╾ erasure
+
+---
+
 # CLI usage
 
 ```sh
@@ -10,6 +24,12 @@ python script.py \
  -i i.txt \
  -o o.txt
 ```
+
+## -t
+
+## -i
+
+## -o
 
 ---
 
@@ -32,7 +52,7 @@ separates operators.
 
 ---
 
-# operator
+# operator chars
 
 runs regex operations.
 
