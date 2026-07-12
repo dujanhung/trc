@@ -25,17 +25,27 @@ python script.py \
  -o o.txt
 ```
 
+[⛖](#minimap)
+
 ## <a id="cli_t"/> -t
+
+[⛖](#minimap)
 
 ## <a id="cli_i"/> -i
 
+[⛖](#minimap)
+
 ## <a id="cli_o"/> -o
+
+[⛖](#minimap)
 
 ---
 
 # <a id="ctrl"/> control chars
 
 changes parser behaviors.
+
+[⛖](#minimap)
 
 ## <a id="ctrl_sep"/> separator
 
@@ -50,11 +60,15 @@ separates operators.
 - (O) : an operator
 - (...) : repeates
 
+[⛖](#minimap)
+
 ---
 
 # <a id="op"/> operator chars
 
 runs regex operations.
+
+[⛖](#minimap)
 
 ## <a id="op_sub"/> subtitube
 
@@ -69,6 +83,8 @@ subtitubes texts.
 - regex (S) : search pattern
 - ref regex (R) : replacement
 
+[⛖](#minimap)
+
 ## <a id="op_erasure"/> erasure
 
 ```txt
@@ -78,6 +94,8 @@ subtitubes texts.
 erases texts.
 
 - regex (S) : search pattern
+
+[⛖](#minimap)
 
 ---
 
