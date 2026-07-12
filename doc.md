@@ -2,7 +2,7 @@
 
 ---
 
-# minimap
+# <a id="minimap"/> minimap
 
 ╠╦ [CLI usage](#cli)       <br>
 ┃┣╾ [-t](#cli_t)           <br>
@@ -81,6 +81,7 @@ erases texts.
 
 ---
 
+[𒐦<br>
 𒐦<br>
 𒐦<br>
 𒐦<br>
@@ -104,5 +105,4 @@ erases texts.
 𒐦<br>
 𒐦<br>
 𒐦<br>
-𒐦<br>
-𒐦<br>
+𒐦<br>](#minimap)
