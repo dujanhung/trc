@@ -4,19 +4,19 @@
 
 # minimap
 
-╠╦ CLI usage       <br>
-┃┣╾ -t             <br>
-┃┣╾ -i             <br>
-┃┗╾ -o             <br>
-╠╦ control chars   <br>
-┃┗╾ separator      <br>
-╠╦ operator chars  <br>
-┃┣╾ subtitube      <br>
-┃┗╾ erasure
+╠╦ [CLI usage](#cli)       <br>
+┃┣╾ [-t](#cli_t)           <br>
+┃┣╾ [-i](#cli_i)           <br>
+┃┗╾ [-o](#cli_o)           <br>
+╠╦ [control chars](#ctrl)  <br>
+┃┗╾ [separator](#ctrl_sep) <br>
+╠╦ [operator chars](#op)   <br>
+┃┣╾ [subtitube](#op_sub)   <br>
+┃┗╾ [erasure](#op_erasure)
 
 ---
 
-# CLI usage
+# <a id="cli"/> CLI usage
 
 ```sh
 python script.py \
@@ -25,19 +25,19 @@ python script.py \
  -o o.txt
 ```
 
-## -t
+## <a id="cli_t"/> -t
 
-## -i
+## <a id="cli_i"/> -i
 
-## -o
+## <a id="cli_o"/> -o
 
 ---
 
-# control chars
+# <a id="ctrl"/> control chars
 
 changes parser behaviors.
 
-## separator
+## <a id="ctrl_sep"/> separator
 
 ```txt
 (O)
@@ -52,11 +52,11 @@ separates operators.
 
 ---
 
-# operator chars
+# <a id="op"/> operator chars
 
 runs regex operations.
 
-## subtitube
+## <a id="op_sub"/> subtitube
 
 ```txt
 (S)
@@ -69,7 +69,7 @@ subtitubes texts.
 - regex (S) : search pattern
 - ref regex (R) : replacement
 
-## erasure
+## <a id="op_erasure"/> erasure
 
 ```txt
 (S)
@@ -78,3 +78,7 @@ subtitubes texts.
 erases texts.
 
 - regex (S) : search pattern
+
+---
+
+𒐪𒐪𒐪𒐪𒐪
