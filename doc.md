@@ -2,6 +2,17 @@
 
 ---
 
+# CLI usage
+
+```sh
+python script.py \
+ -t t.trc \
+ -i i.txt \
+ -o o.txt
+```
+
+---
+
 # control chars
 
 changes parser behaviors.
