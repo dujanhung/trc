@@ -106,10 +106,3 @@ erases texts.
 𒐦<br>
 𒐦<br>
 𒐦<br>
-𒐦<br>
-𒐦<br>
-𒐦<br>
-𒐦<br>
-𒐦<br>
-𒐦<br>
-𒐦<br>
